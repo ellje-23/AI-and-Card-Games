@@ -1,4 +1,4 @@
-# AI-and-Cards
+# AI-and-Card-Games
 
 This project was assigned by __Dr. Philip Kirlin__. 
 Dr. Kirlin provided the framework for _sortedList_. 
