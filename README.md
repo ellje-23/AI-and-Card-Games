@@ -7,7 +7,7 @@ This program implements a doubly-linked list that maintains a list of integers i
 
 It requires _stdlib.jar_ which was provided by Dr. Kirlin. 
 
-__To Run:__
+### To Run
 1. Download the project 
 2. Open the project on IntelliJ
 3. Run the 'NoThanksRunner.java' file 
