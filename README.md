@@ -11,4 +11,4 @@ __To Run:__
 1. Download the project 
 2. Open the project on IntelliJ
 3. Run the 'NoThanksRunner.java' file 
-<br> *The output is how often my AI player won against others. <\br>
+<br> *The output is how often my AI player won against others.
